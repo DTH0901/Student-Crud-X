@@ -60,15 +60,18 @@ cd Student-Crud-X
 ### Step 3: Backend Setup
 
 1. **Navigate to the project root**
+   ```bash
+   cd client
+   ```
 
 
-2. **Install Application Dependencies
+3. **Install Application Dependencies
 Install the Node.js packages required for the server and React frontend.**
    ```bash
    npm install
    ```
 
-3. **Configure Database connection:**:
+4. **Configure Database connection:**:
 Open `server.js` and update mySQP credentials:
    ```javascript
    const db = mysql.createConnection({
@@ -79,7 +82,7 @@ Open `server.js` and update mySQP credentials:
     });
 
    ```
-4. **Start the backend server:**
+5. **Start the backend server:**
    ```bash
    node server.js
    ```
@@ -89,7 +92,7 @@ Open `server.js` and update mySQP credentials:
    Server running on http://localhost:5000
    ```
 
-5. **Frontend setup:**
+6. **Frontend setup:**
    - Install frontend dependencies:
      ```bash
      npm install
